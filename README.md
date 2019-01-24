@@ -1,4 +1,4 @@
-# data translator green team workflow 5
+# NCATS Data Translator Green Team Workflow 5
 
 run workflow 5 module 1 to 4
 ```
